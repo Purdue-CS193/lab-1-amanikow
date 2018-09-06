@@ -1,7 +1,5 @@
 
 # Abby Manikowski's first CS193 Lab
-##
-### 
 
 - instructors 
 - labs 
