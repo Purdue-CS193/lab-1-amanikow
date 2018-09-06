@@ -1,13 +1,14 @@
 
-# Lab 1 CS 193
-## Abby Manikowski
-### Fall 2018
+# Abby Manikowski's first CS193 Lab
+##
+### 
 
-- hi
-- september 
+- instructors 
+- labs 
+- TAs
 
-1. CS 180
-2. CS 191
+1. CS 193
+2. CS 180
 
 ## Welcome to GitHub Pages
 
