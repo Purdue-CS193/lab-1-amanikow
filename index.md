@@ -15,11 +15,11 @@ Syntax highlighted code block
 ## Abby Manikowski
 ### Fall 2018
 
-- Bulleted
-- List
+- hi
+- september 
 
-1. Numbered
-2. List
+1. CS 180
+2. CS 191
 
 **Bold** and _Italic_ and `Code` text
 
